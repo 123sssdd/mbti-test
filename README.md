@@ -1,3 +1,7 @@
+## 练手项目，夯实基础，同时丰富git管理团队代码经验
+
+## 原项目
+---
 # 鱼答答 - AI 答题应用平台
 
 > 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
